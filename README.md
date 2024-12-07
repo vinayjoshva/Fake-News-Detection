@@ -7,7 +7,6 @@ The datasets for this project are hosted externally. They will be automatically 
 2. `cleaned_data.csv` (Google Drive Link: [Click Here](https://drive.google.com/file/d/1Sdg9CJKbpmccciLWTvnFv3FCKCrywyls/view?usp=drive_link))
 3. `text_preprocessed_scaled.csv` (Google Drive Link: [Click Here](https://drive.google.com/file/d/1ATmJvIc9EsDkE8agxqbE27-gIWjwVb5i/view?usp=drive_link))
 
-These datasets will be downloaded and stored in the following structure:
 
 ## Create data folder if required in the project directory
 
